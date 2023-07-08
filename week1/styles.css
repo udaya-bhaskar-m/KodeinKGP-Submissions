@@ -1,0 +1,20 @@
+body{
+    background: -moz-linear-gradient(
+        rgb(255,255,255)
+        rgb(0,0,0)
+    );
+    text-align: center;
+    font-size:large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#demobutton{
+    background-color: rgb(74, 74, 235);
+    border: rgb(234, 190, 17);
+    border-radius: 18px;
+    color: rgb(255, 255, 255);
+    padding: 7px 12px;
+    margin-top: 5px;
+    cursor:grab;
+    font-size:18px;
+}
